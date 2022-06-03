@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Patil</h1>
-<h3 align="center">An independent and detail-oriented full-stack web developer with a specialization in MERN stack. enthusiastic to learn new things and always try to do my best in any work assigned and always tries to be appreciated as well-performer.</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit7067&label=Profile%20views&color=0e75b6&style=flat" alt="mohit7067" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **95227ms@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cRu9wAoiQ_NnmDslxdVxvzarR_Lvr__f/view](https://drive.google.com/file/d/1cRu9wAoiQ_NnmDslxdVxvzarR_Lvr__f/view)
+- 📄 My resume [https://drive.google.com/file/d/1cRu9wAoiQ_NnmDslxdVxvzarR_Lvr__f/view](https://drive.google.com/file/d/1cRu9wAoiQ_NnmDslxdVxvzarR_Lvr__f/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
