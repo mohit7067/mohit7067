@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://mohit-patil-portfolioio.netlify.app/](https://mohit-patil-portfolioio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mohit-patil-portfolio.netlify.app/](https://mohit-patil-portfolio.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Redux, Chakra-ui,Node.js, Express.js, MongoDB**
 
