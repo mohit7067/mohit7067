@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohit-patil-portfolioio.netlify.app/](https://mohit-patil-portfolioio.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, Node.js, Express.js, MongoDB**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Redux, Chakra-ui,Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **95227ms@gmail.com**
 
