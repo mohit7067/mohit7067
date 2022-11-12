@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **95227ms@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cRu9wAoiQ_NnmDslxdVxvzarR_Lvr__f/view](https://drive.google.com/file/d/1cRu9wAoiQ_NnmDslxdVxvzarR_Lvr__f/view)
+- 📄 Know about my experiences https://drive.google.com/file/d/1Wpv34_n1wQWzGYw5nkTQJxfyvj08Z-dM/view?usp=share_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
