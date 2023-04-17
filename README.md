@@ -9,13 +9,13 @@
 
 
 <!----------------------------------- About Section ------------------------------------>
-<div display="flex">
+
 <h3>
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
-<img src="https://user-images.githubusercontent.com/97459016/232494796-7da8935f-6697-4eab-aae8-76220645d064.gif" alt="gif"/>
+<img src="https://user-images.githubusercontent.com/97459016/232494796-7da8935f-6697-4eab-aae8-76220645d064.gif" alt="gif" width="100%/>
 
-</div>
+
 
 
 
