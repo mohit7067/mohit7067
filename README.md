@@ -127,9 +127,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit7067&repo=bookozee&locale=en&border_radius=0&theme=dark" alt="mohit7067"/>
     </a>
     
-    <a href="https://github.com/mohit7067/youtube_clone.git">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit7067&repo=youtube_clone&locale=en&border_radius=0&theme=dark"            alt="mohit7067"/>
-    </a>
+<a href="https://github.com/mohit7067/youtube_clone.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit7067&repo=youtube_clone&locale=en&border_radius=0&theme=dark" alt="mohit7067"/>
+</a>
   
     
     
