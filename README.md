@@ -109,9 +109,17 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit7067&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit7067&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
-</p>
+           <img
+          src="https://github-readme-stats.vercel.app/api?username=mohit7067&count_private=true&show_icons=true&theme=vision-friendly-dark"
+          alt="mohit7067"
+        
+        />
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=mohit7067&theme=vision-friendly-dark"
+          alt="mohit7067"
+          
+        /> 
+   
 <br>
 
 
