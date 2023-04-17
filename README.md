@@ -9,10 +9,14 @@
 
 
 <!----------------------------------- About Section ------------------------------------>
-
+<div display="flex">
 <h3>
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
+<img src="https://user-images.githubusercontent.com/97459016/232494796-7da8935f-6697-4eab-aae8-76220645d064.gif" alt="gif"/>
+
+</div>
+
 
 
 <br>
@@ -68,10 +72,10 @@
         <img src="https://img.shields.io/badge/-Bookozee-8D53FE?style=for-the-badge&logo=appveyor" alt="Bookozee" />
     </a>
     <a href="https://github.com/mohit7067/youtube_clone.git" target="blank">
-        <img src="https://img.shields.io/badge/-Youtube%20Clone-FF0000?style=for-the-badge&logo=Nike&logo" alt="Youtube Clone" />
+        <img src="https://img.shields.io/badge/-Youtube%20Clone-FF0000?style=for-the-badge&logo=appveyor" alt="Youtube Clone" />
     </a>
      <a href="https://www.kratstechnologies.com" target="blank">
-        <img src="https://img.shields.io/badge/-kratstechnologies.com-808080?style=for-the-badge" alt="kratstechnologies" />
+        <img src="https://img.shields.io/badge/-kratstechnologies.com-808080?style=for-the-badge&logo=appveyor" alt="kratstechnologies" />
     </a>
    
 </p>
