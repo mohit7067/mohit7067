@@ -68,13 +68,13 @@
 
 
 <p align="left">
-    <a href="https://github.com/mohit7067/bookozee.git" target="_blank">
+    <a href="https://github.com/mohit7067/bookozee.git" >
         <img src="https://img.shields.io/badge/-Bookozee-8D53FE?style=for-the-badge&logo=appveyor" alt="Bookozee" />
     </a>
-    <a href="https://github.com/mohit7067/youtube_clone.git" target="_blank">
+    <a href="https://github.com/mohit7067/youtube_clone.git" >
         <img src="https://img.shields.io/badge/-Youtube%20Clone-FF0000?style=for-the-badge&logo=appveyor" alt="Youtube Clone" />
     </a>
-     <a href="https://www.kratstechnologies.com" target="_blank">
+     <a href="https://www.kratstechnologies.com">
         <img src="https://img.shields.io/badge/-kratstechnologies.com-808080?style=for-the-badge&logo=appveyor" alt="kratstechnologies" />
     </a>
    
@@ -89,14 +89,14 @@
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/mohit-profile" target="_blank">
+    <a href="https://www.linkedin.com/in/mohit-profile" >
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/mohit-profile" />
     </a>
   
-    <a href="https://mohit7067.github.io/mohit-patil" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit7067.github.io/mohit-patil" />
-    </a>
-    <a title="95227ms@gmail.com" href="mailto:95227ms@gmail.com"  target="_blank">
+ <a href="https://mohit7067.github.io/mohit-patil" >
+ <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit7067.github.io/mohit-patil"/>
+ </a>
+    <a title="95227ms@gmail.com" href="mailto:95227ms@gmail.com"  >
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="95227ms@gmail.com" />
     </a>
 </p>
