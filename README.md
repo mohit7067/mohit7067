@@ -65,13 +65,13 @@
 
 <p align="left">
     <a href="https://github.com/mohit7067/bookozee.git" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bookozee&color=8D53FE" alt="Bookozee" />
+        <img src="https://img.shields.io/badge/-Bookozee-8D53FE" alt="Bookozee" />
     </a>
     <a href="https://github.com/mohit7067/youtube_clone.git" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
+        <img src="https://img.shields.io/badge/-Youtube%20Clone-FF0000" alt="Youtube Clone" />
     </a>
      <a href="https://www.kratstechnologies.com" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
+        <img src="https://img.shields.io/badge/-kratstechnologies.com-000" alt="kratstechnologies" />
     </a>
    
 </p>
