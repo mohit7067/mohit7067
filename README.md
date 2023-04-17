@@ -71,7 +71,7 @@
         <img src="https://img.shields.io/badge/-Youtube%20Clone-FF0000?style=for-the-badge&logo=appveyor" alt="Youtube Clone" />
     </a>
      <a href="https://www.kratstechnologies.com" target="blank">
-        <img src="https://img.shields.io/badge/-kratstechnologies.com-000?style=for-the-badge" alt="kratstechnologies" />
+        <img src="https://img.shields.io/badge/-kratstechnologies.com-808080?style=for-the-badge" alt="kratstechnologies" />
     </a>
    
 </p>
