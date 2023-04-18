@@ -109,7 +109,7 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-<img  src="https://github-readme-stats.vercel.app/api?username=mohit7067&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="mohit7067"  />
+<img  src="https://github-readme-stats-topaz-nu-23.vercel.app/api?username=mohit7067&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="mohit7067"  />
     
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit7067&theme=vision-friendly-dark" alt="mohit7067"/> 
    
